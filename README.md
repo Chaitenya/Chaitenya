@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently **working on websites and webapps**
 
-- 🌱 I’m currently learning **backend web development technologies**
+- 🌱 I’m currently learning **React.js and some backend technologies**
 
 - 💬 Ask me about **Front end technologies**
 
